@@ -1,5 +1,5 @@
 ﻿# Librería para las placas dodo y dodo lite
-Esta librería creada por **[Complubot](www.complubot.com)** ha sido desarrollada para programar las placas dodo y dodo lite basadas en una Raspberry Pi Pico en MicroPython. Es una librería en desarrollo y que cada vez incluirá más funcionalidades para estas placas. 
+Esta librería creada por **[Complubot](https://complubot.com/)** ha sido desarrollada para programar las placas dodo y dodo lite basadas en una Raspberry Pi Pico en MicroPython. Es una librería en desarrollo y que cada vez incluirá más funcionalidades para estas placas. 
 A continuación os dejamos un breve resumen de como la librería y de que funciones dispone.
 
 ## Incluir la librería y definir la placa
