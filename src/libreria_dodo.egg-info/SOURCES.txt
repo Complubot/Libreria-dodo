@@ -3,8 +3,8 @@ README.md
 pyproject.toml
 setup.cfg
 setup.py
-src/libreria_dodo/__init__.py
-src/libreria_dodo/libreria_dodo.py
+src/complubot/__init__.py
+src/complubot/libreria_dodo.py
 src/libreria_dodo.egg-info/PKG-INFO
 src/libreria_dodo.egg-info/SOURCES.txt
 src/libreria_dodo.egg-info/dependency_links.txt
