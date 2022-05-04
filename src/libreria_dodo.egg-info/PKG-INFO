@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: libreria-dodo
+Version: 0.0.3
+Summary: Libreria para la placa dodo y dodo lite
+Home-page: https://github.com/Complubot/Dodo-Board
+Author: Complubot
+Author-email: info@complubot.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/Complubot/Dodo-Board/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: Implementation :: MicroPython
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Libreria Dodo
+
+Esta es la libreria para programar la placa dodo y la placa dodo lite
+
+
