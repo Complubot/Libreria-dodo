@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="libreria dodo",
-    version="0.0.6",
+    version="0.0.8",
     author="Complubot",
     author_email="info@complubot.com",
     description="Libreria para la placa dodo y dodo lite",
